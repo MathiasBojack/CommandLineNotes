@@ -84,3 +84,9 @@ Notes on using github
     git merge myBranchName % while in the master, merge the branch with the master
     '''
     
+- Clone a remote repository to the local file
+  
+  '''
+  git clone githubRepositoryLink
+  '''
+  

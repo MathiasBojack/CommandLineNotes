@@ -86,4 +86,17 @@ Notes on using github
 
   git clone githubRepositoryLink
 
-  
+## Steps to be followed to create a remote repository from local files
+
+1. Local to the local repository and initialize:  
+        git init  
+2. Add files to the staging area    
+        git add fileName
+3. First commit    
+        commit -m textComments
+4. Connect to a remote repository   
+        git remote add origin <server>   
+5. Send changes to the master branch    
+        git push -u origin
+
+ 

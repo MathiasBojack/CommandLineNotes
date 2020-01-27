@@ -14,3 +14,6 @@ The build process of CMake takes place in two stages:
 # Conan 
 
 Package manager for developers
+
+
+# Pre-commit

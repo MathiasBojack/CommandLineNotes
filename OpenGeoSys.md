@@ -17,3 +17,12 @@ Package manager for developers
 
 
 # Pre-commit
+Objective: to create some criteria before committing, pushing or merging. If the commit or push fail to satisfy the criteria, they will be not be considered as valid. This helps correcting some errors, for ex. email address or user names.
+
+
+# Build Configuration
+
+The build directory will be used for storing the compiled libraries, executable, test out puts and IDE projects.
+
+Conan use one build directory for one configuration
+As  default, Visual studio has only one build-folder with different configurations. 

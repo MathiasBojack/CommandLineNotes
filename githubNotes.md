@@ -97,7 +97,7 @@ Notes on using github
 2. Add files to the staging area    
         git add fileName
 3. First commit    
-        commit -m textComments
+        git commit -m textComments
 4. Connect to a remote repository   
         git remote add origin <server>   
 5. Send changes to the master branch    

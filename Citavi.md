@@ -1,27 +1,27 @@
 # Citavi Using notes
 
-## Three kinds of projects
+## 1.Projects
 
 - DBserver
 - Cloud project
 - Local project   (At most 3P at the same time)
 
 
-## 3 workspaces
+## 2.Workspaces
 
 - Reference 
 - Knowlege
 - Task
   - Adding task to the task manager
 
-## Adding references
+## 3.Adding references
 
 - Simple drag
 - File - Import
 - Bibtex
 - From citavi web picker
       
-## File information
+## 4.File information
 
 - Overview
   - adding tasks
@@ -31,7 +31,7 @@
   - Organizing the ideas
 - Citation format
 
-## File search
+## 5.File search
 - Search in citavi
   - include other database
   - cancel selection
@@ -43,7 +43,7 @@
 
 - [webpage](https://www.iea.org/reports/the-role-of-co2-storage#highlights)
 
-## Reading and analyzing
+## 6.Reading and analyzing
 
 - highlights
 - highlights with main idea 
@@ -52,16 +52,16 @@
 - image quotation
 - Thoughts
 
-## Tast planning
+## 7.Tast planning
 
 - add single/multiple reference in the tast
 - project tasks
 
-## Knowlege orgnizer
+## 8.Knowlege orgnizer
 
 - Create categories 
 - Assign categories when adding files, creating notations
 - Ctl two quotations for comparison
 - Subheading in the knowledge subcategory pannel
 
-## Use Citavi with word
+## 9.Use Citavi with word
